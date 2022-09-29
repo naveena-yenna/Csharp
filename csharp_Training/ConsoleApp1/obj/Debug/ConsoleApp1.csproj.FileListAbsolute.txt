@@ -1,0 +1,8 @@
+C:\Users\Naveena.Yenna\source\repos\Example\ConsoleApp1\bin\Debug\ConsoleApp1.exe.config
+C:\Users\Naveena.Yenna\source\repos\Example\ConsoleApp1\bin\Debug\ConsoleApp1.exe
+C:\Users\Naveena.Yenna\source\repos\Example\ConsoleApp1\bin\Debug\ConsoleApp1.pdb
+C:\Users\Naveena.Yenna\source\repos\Example\ConsoleApp1\obj\Debug\ConsoleApp1.csproj.AssemblyReference.cache
+C:\Users\Naveena.Yenna\source\repos\Example\ConsoleApp1\obj\Debug\ConsoleApp1.csproj.SuggestedBindingRedirects.cache
+C:\Users\Naveena.Yenna\source\repos\Example\ConsoleApp1\obj\Debug\ConsoleApp1.csproj.CoreCompileInputs.cache
+C:\Users\Naveena.Yenna\source\repos\Example\ConsoleApp1\obj\Debug\ConsoleApp1.exe
+C:\Users\Naveena.Yenna\source\repos\Example\ConsoleApp1\obj\Debug\ConsoleApp1.pdb
