@@ -1,0 +1,3 @@
+C:\Users\Naveena.Yenna\source\repos\Abstraction1\Abstraction1\obj\Debug\Abstraction1.csproj.AssemblyReference.cache
+C:\Users\Naveena.Yenna\source\repos\Abstraction1\Abstraction1\obj\Debug\Abstraction1.csproj.SuggestedBindingRedirects.cache
+C:\Users\Naveena.Yenna\source\repos\Abstraction1\Abstraction1\obj\Debug\Abstraction1.csproj.CoreCompileInputs.cache

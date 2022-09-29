@@ -1,0 +1,8 @@
+C:\Users\Naveena.Yenna\source\repos\ObjectOnCar\ObjectOnCar\bin\Debug\ObjectOnCar.exe.config
+C:\Users\Naveena.Yenna\source\repos\ObjectOnCar\ObjectOnCar\bin\Debug\ObjectOnCar.exe
+C:\Users\Naveena.Yenna\source\repos\ObjectOnCar\ObjectOnCar\bin\Debug\ObjectOnCar.pdb
+C:\Users\Naveena.Yenna\source\repos\ObjectOnCar\ObjectOnCar\obj\Debug\ObjectOnCar.csproj.AssemblyReference.cache
+C:\Users\Naveena.Yenna\source\repos\ObjectOnCar\ObjectOnCar\obj\Debug\ObjectOnCar.csproj.SuggestedBindingRedirects.cache
+C:\Users\Naveena.Yenna\source\repos\ObjectOnCar\ObjectOnCar\obj\Debug\ObjectOnCar.csproj.CoreCompileInputs.cache
+C:\Users\Naveena.Yenna\source\repos\ObjectOnCar\ObjectOnCar\obj\Debug\ObjectOnCar.exe
+C:\Users\Naveena.Yenna\source\repos\ObjectOnCar\ObjectOnCar\obj\Debug\ObjectOnCar.pdb

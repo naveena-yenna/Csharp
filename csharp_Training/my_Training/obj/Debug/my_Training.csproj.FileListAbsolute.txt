@@ -1,0 +1,12 @@
+C:\Users\Naveena.Yenna\source\repos\my_Training\my_Training\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\Users\Naveena.Yenna\source\repos\my_Training\my_Training\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\Users\Naveena.Yenna\source\repos\my_Training\my_Training\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\Users\Naveena.Yenna\source\repos\my_Training\my_Training\bin\Debug\Microsoft.TestPlatform.AdapterUtilities.dll
+C:\Users\Naveena.Yenna\source\repos\my_Training\my_Training\bin\Debug\my_Training.dll
+C:\Users\Naveena.Yenna\source\repos\my_Training\my_Training\bin\Debug\my_Training.pdb
+C:\Users\Naveena.Yenna\source\repos\my_Training\my_Training\bin\Debug\WebDriver.dll
+C:\Users\Naveena.Yenna\source\repos\my_Training\my_Training\obj\Debug\my_Training.csproj.AssemblyReference.cache
+C:\Users\Naveena.Yenna\source\repos\my_Training\my_Training\obj\Debug\my_Training.csproj.CoreCompileInputs.cache
+C:\Users\Naveena.Yenna\source\repos\my_Training\my_Training\obj\Debug\my_Training.csproj.CopyComplete
+C:\Users\Naveena.Yenna\source\repos\my_Training\my_Training\obj\Debug\my_Training.dll
+C:\Users\Naveena.Yenna\source\repos\my_Training\my_Training\obj\Debug\my_Training.pdb
